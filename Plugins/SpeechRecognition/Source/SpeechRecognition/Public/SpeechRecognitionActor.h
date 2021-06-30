@@ -3,7 +3,7 @@
 
 #include "SpeechRecognitionWorker.h"
 #include "SpeechRecognition.h"
-#include "TaskGraphInterfaces.h"
+
 #include "SpeechRecognitionActor.generated.h"
 
 DECLARE_DYNAMIC_MULTICAST_DELEGATE(FStartedSpeakingSignature);

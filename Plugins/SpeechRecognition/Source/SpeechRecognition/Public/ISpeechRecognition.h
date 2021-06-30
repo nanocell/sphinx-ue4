@@ -3,7 +3,7 @@
 #pragma once
 
 #include "SpeechRecognition.h"
-#include "ModuleManager.h"
+#include "Modules/ModuleInterface.h"
 
 class ISpeechRecognition : public IModuleInterface
 {
